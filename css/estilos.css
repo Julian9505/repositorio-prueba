@@ -2,5 +2,6 @@ body{
     background-color:darkgrey;
     font-size: 56px;
     letter-spacing:12px;
+    initial-letter:initial;
 }
  
